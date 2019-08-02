@@ -28,6 +28,11 @@
       "title": "Booking",
       "icon": "fa-bed",
       "url": "https://www.booking.com/"
+    },
+    {
+      "title": "booking 2",
+      "icon": "fa-booking",
+      "url": "https://www.google.com/"
     }
   ]
 }
