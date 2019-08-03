@@ -1,10 +1,10 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
+title: Contacts
+subtitle: 'This is a list of contacts and booking methods '
 img_path: images/about.jpg
 menus:
   main:
-    title: About
+    title: Booking
     weight: 2
 layout: page
 ---
