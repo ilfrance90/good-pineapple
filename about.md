@@ -1,5 +1,5 @@
 ---
-title: Contacts
+title: Booking
 subtitle: 'This is a list of contacts and booking methods '
 img_path: images/about.jpg
 menus:
