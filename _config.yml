@@ -1,24 +1,24 @@
-title: Stackbit Fjord Theme
+title: Agriturismo Il Gattesco
 baseurl: /
 permalink: '/:title/'
 palette: yellow
 header:
-  title: Fjord
-  tagline: Minimal and clean blog theme
-  logo_img: images/logo.png
   bg_img: images/header-bg.jpg
   has_nav: true
   has_social: true
+  logo_img: images/logo.png
+  tagline: Minimal and clean blog theme
+  title: Fjord
 footer:
   content: '&copy; Stackbit-Fjord. All rights reserved.'
   links:
-    - text: Made with Stackbit
+    - new_window: true
+      text: Made with Stackbit
       url: 'https://www.stackbit.com'
-      new_window: true
 sass:
   indentWidth: 4
-  style: nested
   precision: 10
+  style: nested
 plugins:
   - jekyll-menus
 exclude:
@@ -35,6 +35,3 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-collections:
-  posts:
-    permalink: '/posts/:title/'
