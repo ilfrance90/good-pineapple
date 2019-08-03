@@ -8,7 +8,7 @@ img_path: images/style-guide.jpg
 menus:
   main:
     title: Style Guide
-    weight: 3
+    weight: 4
 layout: page
 ---
 
