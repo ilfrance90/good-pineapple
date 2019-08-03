@@ -5,7 +5,7 @@ img_path: images/about.jpg
 menus:
   main:
     title: Booking
-    weight: 2
+    weight: 3
 layout: page
 ---
 
