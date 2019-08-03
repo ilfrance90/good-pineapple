@@ -2,7 +2,7 @@
 title: Home
 menus:
   main:
-    title: La Casa Dei Tarocchi
+    title: Home
     weight: 2
 layout: home
 ---
