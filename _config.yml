@@ -8,9 +8,9 @@ header:
   has_social: true
   logo_img: images/logo.png
   tagline: Minimal and clean blog theme
-  title: Fjord
+  title: Il Gattesco
 footer:
-  content: '&copy; Stackbit-Fjord. All rights reserved.'
+  content: Letizia and Family wish you all the best
   links:
     - new_window: true
       text: Made with Stackbit
