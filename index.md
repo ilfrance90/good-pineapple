@@ -3,7 +3,7 @@ title: Home
 menus:
   main:
     title: Home
-    weight: 2
+    weight: 1
 layout: home
 ---
 
