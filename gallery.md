@@ -3,8 +3,8 @@ title: Gallery
 subtitle: Photo Gallery
 menus:
   main:
-    title: La Casa degli Olivi
-    weight: 1
+    title: Gallery
+    weight: 4
 layout: page
 ---
 Pics
