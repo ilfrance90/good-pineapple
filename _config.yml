@@ -11,10 +11,7 @@ header:
   title: Il Gattesco
 footer:
   content: Letizia and Family wish you all the best
-  links:
-    - new_window: true
-      text: Made with Stackbit
-      url: 'https://www.stackbit.com'
+  links: []
 sass:
   indentWidth: 4
   precision: 10
